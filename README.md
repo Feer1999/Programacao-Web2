@@ -1,17 +1,17 @@
 # Programação Web2
 # Fernanda Rodrigues da Rosa
-<h3>Passo 1</h3>
+<h1>Passo 1</h1>
 <br>
 abra um terminal com o diretorio do arquivo digite os comandos
-<ul>npm instal
+<ul>npm instal</ul>
 <br>
-<ul>npm i -g yarn
+<ul>npm i -g yarnl</ul>
 <br>
 Abra outro terminal com o diretorio do arquivo e digite o comando 
-<ul>docker run -p 27017:27017 mongo
+<ul>docker run -p 27017:27017 mongol</ul>
 <br>
 Volte ao primeiro terminal e digite o comando
-<ul>yarn dev
+<ul>yarn devl</ul>
 <h1>Passo 2</h1>
  Abra o Insomnia em seu computador e crie um novo espaço de trabalho ou utilize um existente.
 <br>

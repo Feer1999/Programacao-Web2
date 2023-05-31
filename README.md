@@ -1,6 +1,7 @@
 # Programação Web2
 # Fernanda Rodrigues da Rosa
-<h4>Passo 1</h4>
+<h3>Passo 1</h3>
+<br>
 abra um terminal com o diretorio do arquivo digite os comandos
 <ul>npm instal
 <br>

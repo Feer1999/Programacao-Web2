@@ -3,14 +3,11 @@
 <h1>Passo 1</h1>
 <br>
 abra um terminal com o diretorio do arquivo digite os comandos
-<ul>npm instal</ul>
-<br>
 <ul>
+<li>npm instal</li>
 <li>npm i -g yarnl</li>
-<br>
 Abra outro terminal com o diretorio do arquivo e digite o comando 
 <li>docker run -p 27017:27017 mongol</li>
-<br>
 Volte ao primeiro terminal e digite o comando
 <li>yarn devl</li>
  </ul>

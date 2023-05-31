@@ -5,9 +5,9 @@
 abra um terminal com o diretorio do arquivo digite os comandos
 <ul>
 <li>npm instal</li>
-<li>npm i -g yarnl</li>
+<li>npm i -g yarn</li>
 Abra outro terminal com o diretorio do arquivo e digite o comando 
-<li>docker run -p 27017:27017 mongol</li>
+<li>docker run -p 27017:27017 mongo</li>
 Volte ao primeiro terminal e digite o comando
 <li>yarn devl</li>
  </ul>
@@ -43,7 +43,7 @@ Selecione o método GET na barra de seleção de método.
   <br>
 <strong>https://localhost:300/categories</strong>
 <br>
-Clique no botão "Send" para enviar a requisição GET e verifique se as categorias estão listadas corretamente. Verifique a resposta para garantir que você obtenha uma lista de categorias existentes.
+Clique no botão "Send" para enviar a requisição GET e verifique se as categorias estão listadas corretamente. 
 <h1>Passo 3</h1>
 Clique novamente em "Create" e selecione "New Request" para criar uma nova requisição.
 <br>
@@ -52,9 +52,9 @@ Selecione o método POST na barra de seleção de método.
 No campo de URL, insira
 <br>
 <strong>https://localhost:300/products</strong>
-Na seção "Corpo", selecione o tipo de corpo Multipart Form
+Na seção "Body", selecione o tipo de corpo Multipart Form
 <br>
-Clique no botão "Add Field" para adicionar os campos do "multi-past" um por um. Insira os seguintes campos:
+Clique no botão "Add Field" para adicionar os campos do Multipart um por um. Insira os seguintes campos:
 <br>
 <strong>
 name: Insira o nome do produto

@@ -5,13 +5,15 @@
 abra um terminal com o diretorio do arquivo digite os comandos
 <ul>npm instal</ul>
 <br>
-<ul>npm i -g yarnl</ul>
+<ul>
+<li>npm i -g yarnl</li>
 <br>
 Abra outro terminal com o diretorio do arquivo e digite o comando 
-<ul>docker run -p 27017:27017 mongol</ul>
+<li>docker run -p 27017:27017 mongol</li>
 <br>
 Volte ao primeiro terminal e digite o comando
-<ul>yarn devl</ul>
+<li>yarn devl</li>
+ </ul>
 <h1>Passo 2</h1>
  Abra o Insomnia em seu computador e crie um novo espaço de trabalho ou utilize um existente.
 <br>

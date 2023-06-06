@@ -4,12 +4,12 @@
 <br>
 abra um terminal com o diretorio do arquivo digite os comandos
 <ul>
-<li>npm instal</li>
+<li>npm install</li>
 <li>npm i -g yarn</li>
 Abra outro terminal com o diretorio do arquivo e digite o comando 
 <li>docker run -p 27017:27017 mongo</li>
 Volte ao primeiro terminal e digite o comando
-<li>yarn devl</li>
+<li>yarn dev</li>
  </ul>
 <h1>Passo 2</h1>
  Abra o Insomnia em seu computador e crie um novo espaço de trabalho ou utilize um existente.

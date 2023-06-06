@@ -20,7 +20,7 @@ Selecione o método POST na barra de seleção de método.
 <br>
 No campo de URL, insira
 <br>
-<strong>https://localhost:300/categories</strong>
+<strong>https://localhost:3000/categories</strong>
 <br>
 Na seção "Body", selecione o tipo de corpo "JSON".
 <br>
@@ -41,7 +41,7 @@ Selecione o método GET na barra de seleção de método.
 <br>
  No campo de URL, insira
   <br>
-<strong>https://localhost:300/categories</strong>
+<strong>https://localhost:3000/categories</strong>
 <br>
 Clique no botão "Send" para enviar a requisição GET e verifique se as categorias estão listadas corretamente. 
 <h1>Passo 3</h1>
@@ -51,7 +51,7 @@ Selecione o método POST na barra de seleção de método.
 <br>
 No campo de URL, insira
 <br>
-<strong>https://localhost:300/products</strong>
+<strong>https://localhost:3000/products</strong>
 Na seção "Body", selecione o tipo de corpo Multipart Form
 <br>
 Clique no botão "Add Field" para adicionar os campos do Multipart um por um. Insira os seguintes campos:
